@@ -1,0 +1,17 @@
+---
+---
+
+
+@import "{{ site.theme }}";
+
+a {
+  color:#00ccff;
+  &:hover {
+    /*color: #9bebff;*/
+    color: #00ff66;
+  }
+}
+
+ul{
+  list-style-image:url('');
+}
