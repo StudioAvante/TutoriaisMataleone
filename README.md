@@ -36,7 +36,11 @@ Peço apenas que por enquanto não enviem páginas ou arquivos novos por enquant
 
 # Estrutura deste repositrio
 
-Todas as páginas são no formato Markdown, nativo do GitHub, que são traduzidas para HTML pelo GitHub Pages. [Este artigo](https://docs.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax) explica bem o formato. A página [customization.md](./template/customization.md) também contém exemplos de formatação.
+Todas as páginas são no formato **Markdown**, ou **MD**, nativo do GitHub, que são traduzidas para HTML pelo GitHub Pages. Algumas dicas sobre o formato...
+
+* [Este artigo](https://docs.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax) explica bem o formato 
+* A página [customization.md](./template/customization.md) contém exemplos de formatação
+* [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), uma referência básica
 
 São arquivos de texto normal, que podem ser editados em qualquer editor de texto, mas eu escolhi o **VS Code**, que possui algumas extensões Markdown que facilitam a vida.
 
