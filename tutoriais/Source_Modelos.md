@@ -15,14 +15,11 @@ https://developer.valvesoftware.com/wiki/Studiomdl
 
 Modelos são adicionados ao mapa com uma destas entidades de ponto...
 
-* `prop_static` [![source]](https://developer.valvesoftware.com/wiki/Prop_static)
-: Ficam sempre parados, não saem do lugar, nem são animados. É a forma mais "barata" de se adicionar detalhes ao mapa.
+* `prop_static` [![source]](https://developer.valvesoftware.com/wiki/Prop_static) : Ficam sempre parados, não saem do lugar, nem são animados. É a forma mais "barata" de se adicionar detalhes ao mapa.
 
-* `prop_dynamic` [![source]](https://developer.valvesoftware.com/wiki/Prop_dynamic) 
-: Modelos animados
+* `prop_dynamic` [![source]](https://developer.valvesoftware.com/wiki/Prop_dynamic) : Modelos animados
 
-* `prop_physics` [![source]](https://developer.valvesoftware.com/wiki/Prop_physics)
-: Afetados pelo sistema de física do jogo, podem ser movidos, empurrados, quebrados, etc.
+* `prop_physics` [![source]](https://developer.valvesoftware.com/wiki/Prop_physics) : Afetados pelo sistema de física do jogo, podem ser movidos, empurrados, quebrados, etc.
 
 
 ## Comandos úteis
