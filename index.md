@@ -10,12 +10,13 @@ Veja mais detalhes de como os tutoriais são organizados e como colaborar no [Gi
 
 ### Legenda
 
-* `[TODO]` Indica algo que precisa ser feito.
-* `[WIP]` Work In Progress, não terminado.
-* `[TEMP]` Temporário.
-* `[IMPROVE]` Precisa ser melhorado.
-* `[HELP]` Preciso de ajuda aqui!
-
+* `[TODO]` : Indica algo que precisa ser feito.
+* `[WIP]` : Work In Progress, não terminado.
+* `[TEMP]` : Temporário.
+* `[IMPROVE]` : Precisa ser melhorado.
+* `[HELP]` : Preciso de ajuda aqui!
+* [![source]](https://developer.valvesoftware.com/wiki/SDK_Docs) / [![csgo]](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Level_Creation) :
+Links para artigos oficiais de referência da Valve.
 
 
 #  Tutoriais Source Engine
@@ -40,4 +41,7 @@ Tutoriais que se aplicam a qualquer jogo que use a Source Engine, mas sempre usa
 * `[WIP]` [Treinamento de Bots CS:GO](./tutoriais/csgo_Bots.md)
 * `[WIP]` [Estrutura e distribuição de um mapa CS:GO](./tutoriais/csgo_Distrib.md)
 
+
+[source]: images/source.gif "Source Engine Doc"
+[csgo]: images/csgo.png "CS:GO Doc"
 
