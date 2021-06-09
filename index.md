@@ -34,7 +34,6 @@ Tutoriais que se aplicam a qualquer jogo que use a Source Engine, mas sempre usa
 
 ##  Counter-Strike: Global Offensive
 
-* `[WIP]` [Dicas Valve Hammer](./tutoriais/Hammer.md)
 * `[WIP]` [Dicas CS:GO](./tutoriais/csgo_Dicas.md)
 * `[WIP]` [Criando gameplay para CS:GO](./tutoriais/csgo_Gameplay.md)
 * `[WIP]` [Overviews / Radar para CS:GO](./tutoriais/csgo_Overviews.md)

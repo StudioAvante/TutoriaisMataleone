@@ -13,6 +13,12 @@ F12: Screenshot
 sv_cheats 1
 mat_wireframe 2
 mat_wireframe 3
+
+# Iniciar uma partida
+map map_name
+
+# Iniciar uma partida deathmatch
+map map_name deathmatch
 ```
 
 ## CS 1.6
